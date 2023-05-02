@@ -1,0 +1,54 @@
+@media screen and (max-width: 300px){
+    h1{
+        font-size: 30px;
+        color: aqua;
+        text-align: center;    
+    }
+    section {
+        width: 100%;
+    }
+    .deging{
+        border-left: solid 7px rgb(255, 0, 208);
+        padding-left: 8px;
+        border-radius: 5px;
+    }
+    #skill{
+        border-bottom:solid 5px rgb(255, 0, 0) ;
+    }
+    .div-1{
+        width: 100%;
+        margin-left: 50px;
+    
+    }
+    .div-1 img{
+        height: 150px;
+        width: 120px;
+        margin-left: 10px;
+    }
+}
+h1{
+    font-size: 40px;
+    color: aqua;
+    text-align: center;    
+}
+section {
+    display: flex;
+}
+.deging{
+    border-left: solid 7px rgb(255, 0, 208);
+    padding-left: 8px;
+    border-radius: 5px;
+}
+#skill{
+    border-bottom:solid 5px rgb(255, 0, 0) ;
+}
+.div-1{
+    width: 50%;
+    margin-left: 50px;
+
+}
+.div-1 img{
+    height: 450px;
+    width: 400px;
+    margin-left: 50px;
+}
