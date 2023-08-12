@@ -1,0 +1,24 @@
+@media (max-width: 900px) {
+  /*1 no section*/
+
+  .div-a {
+    padding: 0px 8%;
+  }
+
+  .image-a {
+    height: 80px;
+    width: 80px;
+  }
+  .menu-item {
+    padding-left: 20px;
+    gap: 30px;
+  }
+  .menu {
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+  .menu-a {
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+}

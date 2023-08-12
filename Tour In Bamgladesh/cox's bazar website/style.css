@@ -1,0 +1,46 @@
+body {
+  padding: 0%;
+  margin: 0%;
+}
+
+/*1 no section CSS*/
+
+.section-a {
+  background-color: #547670;
+}
+.div-a {
+  padding: 0px 15%;
+  display: flex;
+  justify-content: space-between;
+}
+.image-a {
+  height: 120px;
+  width: 120px;
+}
+.menu-item {
+  list-style: none;
+  display: flex;
+  gap: 60px;
+  align-items: center;
+}
+.menu {
+  text-decoration: none;
+  color: #000000;
+  border: 2px solid #7fe3d3;
+  padding: 10px 20px;
+  background-color: #7fe3d3;
+  border-radius: 5px;
+}
+.menu-a {
+  text-decoration: none;
+  color: #ffff;
+  border: 2px solid #f1615a;
+  padding: 10px 20px;
+  background-color: #f1615a;
+  border-radius: 5px;
+  transition: 20ms;
+}
+.menu-a:hover {
+  background-color: #03a9f4;
+  border-color: #03a9f4;
+}

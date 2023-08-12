@@ -1,0 +1,25 @@
+@media (max-width: 600px) {
+  /*1 no section*/
+
+  .div-a {
+    padding: 0px auto;
+  }
+  .image-a {
+    height: 45px;
+    width: 45px;
+  }
+  .menu-item {
+    padding-left: 10px;
+    gap: 15px;
+  }
+  .menu {
+    font-size: 10px;
+    padding: 4px 8px;
+    border-radius: 5px;
+  }
+  .menu-a {
+    font-size: 10px;
+    padding: 4px 8px;
+    border-radius: 5px;
+  }
+}
